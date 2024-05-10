@@ -1,0 +1,14 @@
+{
+    "database": {
+        "sgbd": "postgresql",
+        "driver": "psycopg2",
+        "sa_user": "postgres",
+        "sa_pwd": "SENHA",
+        "db_port": 5432,
+        "host": "localhost",
+        "name": "hyperativa_challenge"
+    },
+    "jwt": {
+        "secret": "SECRET"
+    }
+}
